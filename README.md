@@ -1,10 +1,10 @@
-# 🏅 Olympics Data Analysis — SQL Project
+# Olympics Data Analysis — SQL Project
 
 A SQL-based data analysis project exploring **120 years of Olympic Games history** using two datasets: athlete events and country/NOC region data.
 
 ---
 
-## 📂 Files
+## Files
 
 | File | Description |
 |------|-------------|
@@ -13,7 +13,7 @@ A SQL-based data analysis project exploring **120 years of Olympic Games history
 
 ---
 
-## 🗃️ Dataset
+## Dataset
 
 **Tables Used:**
 - **Athlete_Events** — athlete-level data including name, sport, event, medal, age, team, NOC, and year
@@ -21,7 +21,7 @@ A SQL-based data analysis project exploring **120 years of Olympic Games history
 
 ---
 
-## ❓ Problems Solved (20 Queries)
+## Problems Solved (20 Queries)
 
 | # | Question |
 |---|----------|
@@ -48,13 +48,13 @@ A SQL-based data analysis project exploring **120 years of Olympic Games history
 
 ---
 
-## 🛠️ Skills Demonstrated
+## Skills Demonstrated
 
 `SQL Joins` · `CTEs` · `Window Functions` · `RANK & ROW_NUMBER` · `Aggregate Functions` · `CASE Statements` · `Subqueries` · `CONCAT & String Functions`
 
 ---
 
-## 👤 Author
+## Author
 
 **Mohammed Faizal** — Data Analyst
 
